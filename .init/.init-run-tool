@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/energy-monitoring-and-analytics-platform-218853-218875/energy_monitor_frontend"
+}
